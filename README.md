@@ -26,8 +26,6 @@ kubectl cluster-info
 
 The node `minikube` was `Ready`, running Kubernetes version `v1.31.0`, with the control plane and CoreDNS reachable at `https://127.0.0.1:32776`.
 
-Minikube's purpose is to run a lightweight, single-node Kubernetes cluster locally so you can develop and test Kubernetes workloads without needing a full cloud-based cluster.
-
 ## 2. Pod
 
 I created a standalone Pod with:
