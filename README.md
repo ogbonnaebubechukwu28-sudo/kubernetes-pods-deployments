@@ -107,7 +107,7 @@ Kubernetes immediately detected the Pod count had dropped below the desired stat
 
 ## 6. Troubleshooting
 
-I intentionally broke the Deployment by changing the image to an invalid tag:
+I broke the Deployment by changing the image to an invalid tag:
 
 ```yaml
 image: nginx:invalid
